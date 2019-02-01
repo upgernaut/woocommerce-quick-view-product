@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/26507890/how-to-add-quantity-field-and-add-to-cart-button-in-a-custom-template
+https://premium.wpmudev.org/forums/topic/adding-woocommerce-add-to-cart-button
+
+https://docs.woocommerce.com/document/woocommerce-shortcodes/#section-15
+
+https://wordpress.stackexchange.com/questions/312871/add-add-to-cart-button-to-every-product-on-the-categorys-page
+https://businessbloomer.com/woocommerce-easily-get-product-info-title-sku-desc-product-object/
+
+https://businessbloomer.com/woocommerce-visual-hook-guide-archiveshopcat-page/
