@@ -1,0 +1,8 @@
+.wsrc_quick_view_modal .woocommerce-tabs, .wsrc_quick_view_modal  .related.products {
+	display: none;
+	
+}
+
+.wsrc_quick_view_modal .woocommerce-product-gallery {
+	opacity: 1!important;
+}
