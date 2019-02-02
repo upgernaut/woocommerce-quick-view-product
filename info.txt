@@ -1,6 +1,8 @@
 https://stackoverflow.com/questions/26507890/how-to-add-quantity-field-and-add-to-cart-button-in-a-custom-template
 https://premium.wpmudev.org/forums/topic/adding-woocommerce-add-to-cart-button
 
+https://wordpress.stackexchange.com/questions/106427/using-ajax-with-a-class-file
+
 https://docs.woocommerce.com/document/woocommerce-shortcodes/#section-15
 
 https://wordpress.stackexchange.com/questions/312871/add-add-to-cart-button-to-every-product-on-the-categorys-page
