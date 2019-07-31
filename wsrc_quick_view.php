@@ -1,6 +1,10 @@
 <?php
 /** ===============================================================================
-  Plugin Name: Uptimex Quick View
+ * Plugin Name: WooCommerce Quick View Pretty
+ * Description: Adds a quick view button and a bootstrap modal to products page
+ * Version: 1.0.0
+ * Author: Aram Khachikyan
+ * Author URI: https://aramkhachikyan.com
 =================================================================================*/
 
 class wsrc_quick_view{
